@@ -3,7 +3,6 @@ ACOES = [
     "CSMG3"
 ]
 
-
 PESO_BASE = {acao: 1 / len(ACOES) for acao in ACOES}
 
 MULTIPLICADORES = {
